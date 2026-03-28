@@ -1,0 +1,10 @@
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\bin\Debug\Adoremos_Midterm_Assignment.exe.config
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\bin\Debug\Adoremos_Midterm_Assignment.exe
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\bin\Debug\Adoremos_Midterm_Assignment.pdb
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.csproj.AssemblyReference.cache
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.Form1.resources
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.Properties.Resources.resources
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.csproj.GenerateResource.cache
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.exe
+C:\Users\Eyanne Adoremos\source\repos\Adoremos_Midterm_Assignment\Adoremos_Midterm_Assignment\obj\Debug\Adoremos_Midterm_Assignment.pdb
